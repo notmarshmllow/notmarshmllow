@@ -4,7 +4,7 @@ I am Harsh aka notmarshmllow. I am an independent security researcher, Ethical H
 
 # Blogs
 
-Checkout my blogs I published on https://notmarshmllow.github.io/blog
+Checkout my blogs I published on https://notmarshmllow.github.io/
 
 ---
 
