@@ -17,7 +17,7 @@ Having profound knowledge of Cyber Security and Vulnerability Assessment with ha
 
 For Pentest inquries, you can contact me on: harshparekh3703@gmail.com
 
-Here are some of my latest research and projects. Buy me a coffee if you like them or find them helpful
+Below are some of my latest research and projects. Buy me a coffee if you like them or find them helpful
 
 <a href="https://www.buymeacoffee.com/notmarshmllow" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
