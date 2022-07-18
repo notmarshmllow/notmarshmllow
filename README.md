@@ -2,11 +2,11 @@
 
 I am Harsh aka [notmarshmllow](https://twitter.com/notmarshmllow). I am an independent security researcher, Ethical Hacker, CTF player and Blogger.
 
-<a href="https://notmarshmllow.github.io"><img align="left" alt="Harsh's Hackerone" width="42px" src="https://o.remove.bg/downloads/013a7e1b-0c5a-47cc-95ed-caf5076925b1/Add_a_heading-removebg-preview.png" /></a>
-<a href="https://hackerone.com/notmarshmllow21"><img alt="Harsh's Hackerone" style=”height:100px width="84px" src="https://www.hackerone.com/themes/hacker_one/images/branding/hackerone_logo_white.png" /></a> 
-<a href="https://twitter.com/notmarshmllow"><img align="left" alt="Harsh's Twitter" width="42px" src="https://o.remove.bg/downloads/77cd6cc7-37c6-464c-8da0-bdafdc244c34/image-removebg-preview.png" /> </a>
-<a href="https://linkedin.com/in/harshparekh11"><img align="left" alt="Harsh's LinkedIn" width="42px" src="https://o.remove.bg/downloads/3c73a62b-912a-484c-95e0-1880cd5f4951/image-removebg-preview.png" /> </a>
-<a href="https://discordapp.com/users/603679966705483786"><img align="left" alt="Harsh's Discord" width="42px" src="https://o.remove.bg/downloads/14d844c7-fabf-40a9-9e91-c129ec33cd4b/image-removebg-preview.png" /> </a>
+<a href="https://notmarshmllow.github.io"><img align="left" alt="Harsh's Blog" width="42px" src="https://user-images.githubusercontent.com/60079743/179577892-d025de13-f1b4-4377-b53d-94a8475d5ffa.png" /></a>
+<a href="https://hackerone.com/notmarshmllow21"><img alt="Harsh's Hackerone" style=”height:100px width="84px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/hackerone_logo_white.png?raw=true" /></a> 
+<a href="https://twitter.com/notmarshmllow"><img align="left" alt="Harsh's Twitter" width="42px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/image-removebg-preview%20(4).png?raw=true" /> </a>
+<a href="https://linkedin.com/in/harshparekh11"><img align="left" alt="Harsh's LinkedIn" width="42px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/image-removebg-preview%20(5).png?raw=true" /> </a>
+<a href="https://discordapp.com/users/603679966705483786"><img align="left" alt="Harsh's Discord" width="42px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/discord%20logo.png?raw=true" /> </a>
 
 
 <!--
