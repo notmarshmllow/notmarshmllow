@@ -8,6 +8,19 @@ I am Harsh aka [notmarshmllow](https://twitter.com/notmarshmllow). I am an indep
 <a href="https://linkedin.com/in/harshparekh11"><img align="left" alt="Harsh's LinkedIn" width="38px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/image-removebg-preview%20(5).png?raw=true" /> </a>
 <a href="https://discordapp.com/users/603679966705483786"><img align="left" alt="Harsh's Discord" width="42px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/discord%20logo.png?raw=true" /> </a>
 
+
+## 💬  About Me...
+
+Having profound knowledge of Cyber Security and Vulnerability Assessment with hands on experience in Web, Android and Network Pentesting. Proficient in Python, Bash and GoLang Programming Languages. Recognized by top companies and organizations in the world for securing them including <b>Blackberry, Samsung, Nokia, Adobe, Red Bull, BBC, Indian Government, Dutch Government, Department of Defence</b> and many more. Interested in Securing the Internet and contributing to society. 
+
+## 📫Pentest Inquries
+
+For Pentest inquries, you can contact me on: harshparekh3703@gmail.com
+
+Here are some of my latest research and projects. Buy me a coffee if you like them or find them helpful
+
+<a href="https://www.buymeacoffee.com/notmarshmllow" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <!--
 **notmarshmllow/notmarshmllow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
