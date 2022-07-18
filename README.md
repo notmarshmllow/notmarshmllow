@@ -1,6 +1,6 @@
 <h1 align=center>Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 
-<h1 align=center> I am Harsh aka <a href=(https://twitter.com/notmarshmllow>notmarshmllow</a>. </h1>
+<h1 align=center> I am Harsh aka <code>notmarshmllow</code> </h1>
 
 <p align=center>
 <a href="https://notmarshmllow.github.io"><img align="center" alt="Harsh's Blog" width="42px" src="https://user-images.githubusercontent.com/60079743/179577892-d025de13-f1b4-4377-b53d-94a8475d5ffa.png" /></a>
