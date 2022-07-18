@@ -12,7 +12,9 @@
 
 ## 💬 About Me...
 
+```
 I have profound knowledge of Cyber Security and Vulnerability Assessment with hands on experience in Web, Android and Network Pentesting. Proficient in Python, Bash and GoLang Programming Languages. Recognized by top companies and organizations in the world for securing them including <b>Blackberry, Samsung, Nokia, Adobe, Red Bull, BBC, Indian Government, Dutch Government, Department of Defence</b> and many more. Interested in Securing the Internet and contributing to society. 
+```
 
 ## 📫Pentest Inquries
 
