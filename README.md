@@ -6,20 +6,6 @@ I am Harsh aka notmarshmllow. I am an independent security researcher, Ethical H
 
 Checkout my blogs I published on https://notmarshmllow.github.io/
 
----
-
-# Tools
-
-Checkout my open-source tools I have published.
-
-[Sage](https://github.com/notmarshmllow/sage) - Fast Scraping Tool to quickly find all S3 Buckets , S3 Bucket Takeovers and URLs from organization's GitHub Repositories.
-
-[Credax](https://github.com/notmarshmllow/credax) - Fuzzing Tool with Slack Notifications.
-
-# Stats
-
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=notmarshmllow)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **notmarshmllow/notmarshmllow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
