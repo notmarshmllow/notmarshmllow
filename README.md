@@ -17,7 +17,7 @@ I have profound knowledge of Cyber Security and Vulnerability Assessment with ha
 
 ## 📫Pentest Inquries
 
-For Pentest inquries, do reach, <a href=mailto:harshparekh3703@gmail.com>email</a>
+For Pentest inquries, do reach me via my <a href=mailto:harshparekh3703@gmail.com>email</a>
 
 Below are some of my latest research and projects. Buy me a coffee if you like my work
 
