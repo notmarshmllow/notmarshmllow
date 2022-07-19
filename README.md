@@ -13,10 +13,15 @@
 <p align=center>
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
   <img src="https://img.shields.io/badge/Ethical%20Hacker-696969?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white">
   <img src="https://img.shields.io/badge/Pentester-4169E1?style=for-the-badge&logoColor=red">
-  
-  
+</p>
+
+<p align=center>
+    <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white">
+  <img src="https://img.shields.io/badge/bugcrowd-FF5733?style=for-the-badge&logoColor=black&logo=bugcrowd">
+  <img src="https://img.shields.io/badge/intigriti-4169E1?style=for-the-badge&logoColor=black&logo=intigriti">
+ 
+
 </p>
 
 ## 💬 About Me...
