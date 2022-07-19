@@ -10,6 +10,13 @@
   <a href="https://hackerone.com/notmarshmllow21"><img align="center" alt="Harsh's Hackerone" width="18px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/h1.png?raw=true" /></a> 
 </p>
 
+<p align=center>
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+  <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white">
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-696969?style=for-the-badge&logoColor=white">
+  
+</p>
+
 ## 💬 About Me...
 
 I have profound knowledge of Cyber Security and Vulnerability Assessment with hands on experience in Web, Android and Network Pentesting. Proficient in Python, Bash and GoLang Programming Languages. Recognized by top companies and organizations in the world for securing them including <b>Blackberry, Samsung, Nokia, Huawei, Adobe, Red Bull, BBC, Indian Government, Dutch Government, Department of Defence, University of Cambridge</b>, and many more. Interested in Securing the Internet and contributing to society. 
