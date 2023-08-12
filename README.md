@@ -5,7 +5,7 @@
 <p align=center>
 <a href="https://notmarshmllow.github.io"><img align="center" alt="Harsh's Blog" width="42px" src="https://user-images.githubusercontent.com/60079743/179577892-d025de13-f1b4-4377-b53d-94a8475d5ffa.png" /></a>
 <a href="https://twitter.com/notmarshmllow"><img align="center" alt="Harsh's Twitter" width="42px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/image-removebg-preview%20(4).png?raw=true" /> </a>
-<a href="https://linkedin.com/in/harshparekh11"><img align="center" alt="Harsh's LinkedIn" width="31px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/image-removebg-preview%20(5).png?raw=true" /> </a>
+<a href="https://linkedin.com/in/harshparekh2321"><img align="center" alt="Harsh's LinkedIn" width="31px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/image-removebg-preview%20(5).png?raw=true" /> </a>
 <a href="https://discordapp.com/users/603679966705483786"><img align="center" alt="Harsh's Discord" width="46px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/discord%20logo.png?raw=true" /> </a>
   <a href="https://hackerone.com/notmarshmllow21"><img align="center" alt="Harsh's Hackerone" width="18px" src="https://github.com/notmarshmllow/notmarshmllow/blob/main/h1.png?raw=true" /></a> 
 </p>
